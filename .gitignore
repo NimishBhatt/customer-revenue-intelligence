@@ -23,3 +23,6 @@ Thumbs.db
 *.tmp
 
 powerbi/
+
+# Generated analysis datasets
+data/processed/*.csv
